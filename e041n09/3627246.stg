@@ -1,2 +1,10 @@
 OBJECT_SHARED Models/Airport/ndb.ac 41.844144 9.643864 1092.81 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 41.848886 9.637786 1103.2 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 41.84984 9.63610 0.00 58.76
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 41.84935 9.63031 1106.57 206.68
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 41.85003 9.62806 1116.35 204.06
+OBJECT_SHARED Models/lib/industrial13x24.ac 41.85006 9.63683 1153.00 123.244
+# END dsf2stg
